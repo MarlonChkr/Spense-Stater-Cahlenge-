@@ -1,0 +1,28 @@
+.jumbotrom{
+    background-color: black;
+    text-align: center;
+    min-width: 50px;
+    min-height: 50px;
+}
+h6{
+    padding-top: 15px;
+    text-align: center;
+    color: white;
+}
+.sub{
+    text-decoration-line: underline;
+}
+.margen{
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
+.fondo{
+    padding-top: 20px;
+    background-color: lightgrey;
+}
+
+#boton{
+    background-color: black;
+    color: white;
+}
