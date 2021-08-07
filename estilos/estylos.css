@@ -13,16 +13,43 @@ h6{
     text-decoration-line: underline;
 }
 .margen{
-    padding-left: 200px;
-    padding-right: 200px;
+    padding-left: 250px;
+    padding-right: 250px;
+    
 }
 
 .fondo{
     padding-top: 20px;
-    background-color: lightgrey;
+    padding-bottom: 30px;
+    background-color: rgb(238, 237, 237);
 }
 
 #boton{
     background-color: black;
     color: white;
+}
+
+ul{
+    font-weight: bold;
+    list-style-type: none;
+}
+
+span.itali{
+    font-style: oblique;
+}
+
+#fondocard{
+    padding-top: 20px;
+    background-color: rgb(238, 237, 237);
+    border: none;
+}
+
+#fondocard2{
+    
+    background-color: rgb(238, 237, 237);
+    border: none;
+}
+
+.img{
+    width: 120px;
 }
