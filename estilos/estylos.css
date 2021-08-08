@@ -50,6 +50,34 @@ span.itali{
     border: none;
 }
 
+#fondocard3{
+    
+   
+    border: none;
+}
+
 .img{
     width: 120px;
+}
+
+#linkn{
+    color: black;
+    font-weight: bold;
+}
+
+.colorfooter{
+    padding-top: 70px;
+    background-color: black;
+}
+
+h5{
+    color:white;
+}
+
+#pfooter{
+    color: lightslategrey;
+}
+
+.banertres{
+    max-width: 80px;
 }
